@@ -1,0 +1,4 @@
+LIBRARY	"DAR_VR_FIX"
+EXPORTS
+SKSEPlugin_Query
+SKSEPlugin_Load
